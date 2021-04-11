@@ -10,7 +10,7 @@ A program that will have a grocery store in which you can ask for specific items
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-The software will ask you you "the customer" what you would like to buy 
+The software will ask you you "the customer" what you would like to buy and you would name the item and if the grocery store has it would ask you how many items you want. Next, it will ask you if you want something else and if you do it will ask how many you want. If the item is not avaliable at the store it will tell you "sorry, the item is not avaliable, is there anything else you want?" Once you say there isn't anything else you want, the program will ask you if you are ready to check out. Once you respond yes it will add up the total of all items you want and give your final price. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,15 +24,15 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I will accomplish 
+I want to make sure I accomplish the program being able to say if the item is avaliable or not and be able to add the price of the items correctly. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-I think I can accomplish 
+I think I can accomplish having the program 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-I hope I can accomplish before the the project's final. 
+I hope I can accomplish having the program to be able to add the price of one specific item when the customer asks for more than one before the the project's final. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
